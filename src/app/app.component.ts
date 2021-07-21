@@ -155,6 +155,7 @@ export class AppComponent implements OnInit {
   private height = 500;
   private margin = 50;
 
+  // checking 
   public svg;
   public svgInner;
   public yScale;
